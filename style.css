@@ -1,0 +1,132 @@
+*{
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 0 0;
+    box-sizing: border-box;
+}
+
+
+/*header section logo*/
+
+.header-section{
+    margin: 8px;
+    padding: 5px;
+}
+
+
+.logo{
+    width: 70px; 
+    height: auto; 
+    float: left;
+    margin-top: 5px;
+}
+
+
+.nav {
+    text-align: center;
+    align-items: center;
+    font-weight: 5px;
+    text-decoration: none;
+    font-size: 30px;
+    margin-top: 20px;
+}
+
+
+.nav a {
+    text-decoration: none;
+    color: black;
+    font-weight: bold;
+    justify-content: space-around;
+    margin-left: 20px;
+    padding: 10px;
+}
+
+
+.photo {
+    width: 250px;
+    height: auto;
+    margin-top: 30px;
+    align-items: center;
+    
+}
+
+
+
+.about-me{
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    justify-content: center;
+    margin-top: 20px;
+    padding-left: 10px;
+}
+
+details p {
+    font-size: 18px;
+    font-weight: bolder;
+    width: 500px;
+    height: auto;
+    text-align: center;
+    align-items: center;
+    margin-top: 6px;
+    padding: 10px;
+}
+
+
+
+.skills{
+    width: 400px;
+    height: auto;
+    align-items: center;
+    margin-top: 30px;
+    justify-content: space-between;
+}
+
+
+
+
+
+.my-contact{
+    width: 300px;
+    height: auto;
+    margin-top: 10px;
+    align-items: center;
+}
+
+
+.my-contact h1{
+    font-size:30px;
+    font-weight: bold;
+    text-align: center;
+
+}
+
+.my-contact a{
+    font-size: 50px;
+    display: inline-flex;
+    width: 30px;
+    height: 40px;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 20px 20px 20px;
+    text-decoration: none;
+}
+
+
+.map {
+    width: 50%;
+    height: 50%;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+
+
+footer{
+    font-weight: bold;
+    bottom: 0;
+    position: relative;
+    float: right;
+    text-align: end;
+}
